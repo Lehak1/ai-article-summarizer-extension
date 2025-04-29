@@ -1,6 +1,5 @@
 # AI Article Summarizer Extension 
 
-
 This Chrome Extension uses the Gemini API to summarize any article or webpage in three modes: **brief**, **detailed**, or **bullet points** — right from your browser!
 
 ![Screenshot 1](./ss1.png)
@@ -41,4 +40,3 @@ This Chrome Extension uses the Gemini API to summarize any article or webpage in
 - JavaScript
 - Gemini API (Google)
 - HTML/CSS
-
